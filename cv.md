@@ -1,8 +1,7 @@
-1. #Artyom Krasovski
-2. email: arkrasovski1996@gmail.com
-3. no experience
-4. *git, c++, html, css*
-5.
+
+ no experience
+ *git, c++, html, css*
+
 ```
 const func = (num) => {  
   if (num > 0) {  
@@ -11,6 +10,11 @@ const func = (num) => {
   return num + 1;  
 };
 ```
-6. kartinnaya galereya and rezume
-7. **bsu**
-8. A2?!
+ kartinnaya galereya and rezume
+ **bsu**
+ A2?!
+# Artyom Krasovski
+
+## Contacts:
+- email: 
+ - arkrasovski1996@gmail.com
