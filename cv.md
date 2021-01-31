@@ -1,5 +1,9 @@
 # Artyom Krasovski
 
+## Contacts:
+- email: 
+ - arkrasovski1996@gmail.com
+
 ## About me
 At the moment I am a first-year student of the Faculty of Mechanics and Mathematics of BSU.
 My goal is to learn the basics of creating websites and web applications.
@@ -26,3 +30,13 @@ exports.min = function min(array) {
     return minEl;
 };
 ```
+
+## Learning project
+Studemployment (https://bitbucket.org/arkrasovski/studemployment/src/master/)
+
+## Education
+BSU (Mechanics and Mathematics faculty)
+Course on udemy: https://www.udemy.com/course/web_developer/
+
+## English level
+A2
