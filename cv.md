@@ -1,15 +1,4 @@
 
- no experience
- *git, c++, html, css*
-
-```
-const func = (num) => {  
-  if (num > 0) {  
-    return num - 1;  
-  }
-  return num + 1;  
-};
-```
  kartinnaya galereya and rezume
  **bsu**
  A2?!
@@ -46,3 +35,12 @@ exports.min = function min(array) {
     return minEl;
 };
 ```
+## Learning project
+Studemployment (https://bitbucket.org/arkrasovski/studemployment/src/master/)
+
+## Education
+BSU (Mechanics and Mathematics faculty)
+Course on udemy: https://www.udemy.com/course/web_developer/
+
+## English level
+A2
