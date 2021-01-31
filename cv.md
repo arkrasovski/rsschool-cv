@@ -1,7 +1,3 @@
-
- kartinnaya galereya and rezume
- **bsu**
- A2?!
 # Artyom Krasovski
 
 ## Contacts:
