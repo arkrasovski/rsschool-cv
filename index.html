@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>HTML, CSS & Git Basics</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<div class="wrapper">
+
+        <header>
+            <h1>Artyom Krasovski</h1>
+        </header>
+       
+
+        <div class="content">
+            <div class="left-flex">
+                <img src="img/foto.png" />
+                <h2>Contacts</h2>
+                <table class="time">
+                    <tr>
+                        <td >mobile:</td>
+                        <td>+375292313254</p></td>
+                    </tr>
+                    <tr>
+                        <td >email:</td>
+                        <td>arkrasovski1996@gmail.com</td>
+                    </tr>
+                   
+                </table>
+            </div>
+            <div class="right-flex">
+                <h2>About me</h2>
+                <p class="description">At the moment I am a first-year student of the Faculty of Mechanics and Mathematics of BSU. My goal is to learn the basics of creating websites and web applications. For this I need to gain certain knowledge and experience, so I am ready to learn new things.</p>
+                <hr />
+
+                <h2>Education</h2>
+                <table>
+                    <tr class="table_header">
+                        <td class="time">2009-2020 </td>
+                        <td class="place">Gymnasium №174</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="work">
+                            In 2020 he graduated from high school with excellent marks. The average score of the certificate is 9.8. Actively participated in olympiads and competitions</td>
+
+                    </tr>
+                    <tr class="table_header">
+                        <td class="time">since 2020 </td>
+                        <td class="place">BSU Mechanics and Mathematics faculty</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="work">
+                            At the moment, I am a first-year student of the Belarusian State University, majoring in web development and Internet technologies.</td>
+
+                    </tr>
+
+                </table>
+                <hr />
+                <h2>My skills: </h2>
+                <ul class="skills">
+                    <li>HTML5</li>
+                    <li>CSS3</li>
+                    <li>Git</li>
+                    <li>studying JS and C++ languages</li>
+                </ul>
+                <hr>
+
+                <h2>English level:</h2>
+                <p class = "english_level">A2</p>
+                <hr>
+                <h2>Code:</h2>
+                <div class = "code_example">
+       <pre>exports.min = function min(array) {
+        if (array == undefined || array.length == 0) {
+         return 0;
+        }
+      let minEl = array[0];
+      for (let i = 1; i < array.length; i++) {
+         if (array[i] < minEl) {
+                 minEl = array[i];
+              }
+        }
+    return minEl;
+    };
+                </div>
+            </div>
+
+
+        </div>
+
+
+        <footer>Все права защищены.</footer>
+
+    </div>
+</body>
+
+</html>
